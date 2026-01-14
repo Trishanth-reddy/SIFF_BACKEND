@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (CRITICAL SECURITY)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Optional: If you have a build folder later
+dist/
+build/
